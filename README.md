@@ -10,7 +10,7 @@
 
 **TypeScript Features?**
 - OOPs (Object Oreiented Programing)
-- 
+  
 **What is Inheritance?**
 - Inheritance is passing down properties & methods from parent class to child class.
 - If child & parent have same method, child's method will be used. [Method Overriding]
