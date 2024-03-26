@@ -17,3 +17,20 @@
 **What is Inheritance?**
 - Inheritance is passing down properties & methods from parent class to child class.
 - If child & parent have same method, child's method will be used. [Method Overriding]
+
+**Different bt type & interface?**
+- Use customs types when you need unions
+- Use interface when defining object or classes
+```
+type StudentOne = {
+      name : string;
+      age: number;
+      address: string | number
+}
+
+interface StrudentTwo {
+      name : string;
+      age: number;
+      great(){}
+}
+```
