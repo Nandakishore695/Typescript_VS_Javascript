@@ -19,7 +19,7 @@
 - If child & parent have same method, child's method will be used. [Method Overriding]
 
 **Different bt type & interface?**
-- Use customs types when you need unions
+- Use customs types when you need unions or intersections
 - Use interface when defining object or classes
 ```
 type StudentOne = {
