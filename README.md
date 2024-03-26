@@ -6,10 +6,13 @@
 - TypeScript code has been written first, then it will be converted to plain JavaScript code using the TypeScript compiler.
 
 **Why Typescript?**
-- Typescript language that can detect errors in the code during the compile time.
+- Typescript language that can detect errors in the code during the compile time. 
 
 **TypeScript Features?**
 - OOPs (Object Oreiented Programing)
+
+**What is Union Type?**
+- A union type has the ability to combine more than one data type for a variable or a function parameter.
   
 **What is Inheritance?**
 - Inheritance is passing down properties & methods from parent class to child class.
