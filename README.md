@@ -1,5 +1,7 @@
 # Typescript_VS_Javascript
 
+**Current Version of TypeScript - 5.4.3**
+
 **What is Typescript?**
 - TypeScript is an object-oriented programming language. This language is a strongly typed programming language that builds on JavaScript.
 - JavaScript is well suited for small-scale applications but TypeScript is used for large-scale applications.
